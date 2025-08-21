@@ -1,0 +1,8 @@
+#carouselExample {
+  height: 300px;
+}
+
+#carouselExample .carousel-item img {
+  height: 300px;
+  object-fit: cover; /* pour couper proprement l'image sans déformation */
+}
